@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2026-02-16 18:55:24,http://23.237.228.134/live5/CCTV2.m3u8
+2026-02-17 06:33:57,http://23.237.228.134/live5/CCTV2.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
-CCTV-14,http://69.30.246.194/live/cctv14.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
@@ -77,11 +76,11 @@ CCTV-14,http://69.30.246.194/live/cctv14.m3u8
 ☘️安徽频道,#genre#
 安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 合肥新闻,http://112.27.235.94:8000/hls/18/index.m3u8
+合肥新闻,http://vapi.91kds.cc/live1/udp.m3u8?ip=anhui-dx&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=238.1.78.111:6760
 
 ☘️宁夏频道,#genre#
 
 ☘️吉林频道,#genre#
-延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 
 ☘️内蒙古频道,#genre#
 
@@ -100,16 +99,14 @@ CCTV-14,http://69.30.246.194/live/cctv14.m3u8
 纬来育乐,rtmp://116.93.98.236/sat/tv701.flv
 
 🎬电影频道,#genre#
-靖天映画,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGDXv1SfZ1MhhtLDvMdZtSidqO1YPWuu00ZaAz_b0Ihbb7Q51OkyNfs2D8NErQUB5-ZDHT6Zkkf4Hw28oxeuXPQzXaayE0zVcA9b4AcBPQgt0YsLk64wcv91Sa-Gk0nDTE_RP3qgYMpUNpTTTLiTGKOXSdye5XmlIjbipatd2QaTM1ylxLytNz7bMJPC2hDabAHqbtO9DZZ-4DuMvYfMNGbg.m3u8?u=1757123819
-靖天戏剧,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGSGiDeEPqIEJVx3us26kmLFaDm0KCC0qIr1Xros8zGoEPNHaFzXQLAiFBlbr6qSvMN5Z7yzGqNwECOOaVoXxtgc_IdHKrPb4FGmjpSksjE4YiIB4zSSExvnI840FbChvM6nuX5fTEJvHNzPV2pAMh-QJEfasmpz5B3lviCX9MWMdXaAo8lT1pjXYD8bOrAEL1aJIrb60F_VojtF9C3btvEQ.m3u8?u=1757123819
 
 🏀体育频道,#genre#
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
-风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 
 🪁动画频道,#genre#
+少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
@@ -119,9 +116,9 @@ CCTV-14,http://69.30.246.194/live/cctv14.m3u8
 少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
-少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
 卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 卡酷动画,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
+新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226973/86129004.smil
@@ -130,8 +127,8 @@ CCTV-14,http://69.30.246.194/live/cctv14.m3u8
 新动漫,rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
-炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
 炫动卡通,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
+炫动卡通,http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
 炫动卡通,rtsp://118.212.169.207:554/PLTV/88888888/224/3221226968/10000100000000060000000000568712_0.smil
 炫动卡通,rtsp://115.153.245.70/PLTV/88888888/224/3221225583/iptv7982.smil
 炫动卡通,rtsp://115.153.254.81/PLTV/88888888/224/3221225583/iptv7982.smil
