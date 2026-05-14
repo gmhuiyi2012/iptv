@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-14 19:58:22,http://74.91.26.218:82/live/cctv5hd.m3u8
+2026-05-15 07:01:01,http://74.91.26.218:82/live/cctv5hd.m3u8
 
 📺央视频道,#genre#
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
@@ -43,7 +43,6 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 ☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
-万源新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=433df4&tk=6949f8ce7202
 
 ☘️陕西频道,#genre#
 
@@ -95,8 +94,8 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
-少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
+少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
@@ -106,7 +105,6 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 卡酷动画,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
-卡酷动画,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
@@ -132,6 +130,11 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 🎵音乐频道,#genre#
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
+风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
+风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
+风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
+风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
