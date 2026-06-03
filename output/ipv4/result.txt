@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-03 22:46:40,http://192.151.150.154/live/cctv5p.m3u8
+2026-06-04 07:48:19,http://192.151.150.154/live/cctv5p.m3u8
 
 📺央视频道,#genre#
 CCTV-5+,http://192.151.150.154/live/cctv5p.m3u8
@@ -128,6 +128,7 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
+风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
 风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
